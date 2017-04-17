@@ -18,7 +18,7 @@ Enviroment
 - JAVA, Apache Spark, and Hadoop.
 
 Result
-- Earnee all points through completely matched result.
+- Earnee all points through completely matched profiled result for hotspots.
 - Analyzed 12 million records in only 1 minute.
 
 The following figure demonstrates resource usages for MapReduce computation between each server.
