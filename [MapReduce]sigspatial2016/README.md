@@ -9,7 +9,17 @@ This work implements the solution for the [ACM SIGSPATIAL Cup 2016](http://sigsp
 - This problem cares about pick-up location instead of drop-down location.
 - The attribute we care considered in cell is the number of trips instead of the number of passengers.
 
-Implementation Requirement
-- The core metric of calculation is Getis-Ord statistic and implemented through JAVA, Apache Spark, and Hadoop.
-- The platform for evaluation is based 16 servers constructed on AWS.
-- The tools I devloped for cluster management are placed in [Cluster Management](https://github.com/HawxChen/CloudComputing/tree/master/%5BSysAdmin%5DClusters)
+Enviroment
+- 16 inexpensive commodity servers on AWS
+  - 1 server in t2.medium level is reponbisble for the role: master.
+  - 15 servers in t2.micro level are slaves.
+- The tools I devloped for cluster management are placed in [Cluster Management](https://github.com/HawxChen/CloudComputing/tree/master/%5BSysAdmin%5DClusters).
+- The core metric of calculation is Getis-Ord statistic.
+- JAVA, Apache Spark, and Hadoop.
+
+Result
+- Earnee all points through completely matched result.
+- Analyzed 12 million records in only 1 minute.
+
+The following figure demonstrates resource usages for MapReduce computation between each server.
+![screen shot 2017-04-17 at 09 37 43](https://cloud.githubusercontent.com/assets/1461806/25098904/1d63911e-235f-11e7-8500-8d1ab25579e3.png)
