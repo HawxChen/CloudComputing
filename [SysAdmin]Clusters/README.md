@@ -1,4 +1,4 @@
-Script Path: [a link] (https://github.com/HawxChen/EnvirSetting/tree/master/aws/ubuntu1604/cluster)
+Script Path: https://github.com/HawxChen/EnvirSetting/tree/master/aws/ubuntu1604/cluster
 
 * These scripts can be used to control thousands of manchines as one cluster based on /etc/hosts.
 * Here is my scripts of management for Spark, Hadoop, Ganglia, and Linux.
