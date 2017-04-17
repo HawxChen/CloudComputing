@@ -23,3 +23,5 @@ Result
 
 The following figure demonstrates resource usages for MapReduce computation between each server.
 ![screen shot 2017-04-17 at 09 37 43](https://cloud.githubusercontent.com/assets/1461806/25098904/1d63911e-235f-11e7-8500-8d1ab25579e3.png)
+
+Other Team members: Sung, Jing, YD.
