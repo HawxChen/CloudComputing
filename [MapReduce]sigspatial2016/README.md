@@ -1,7 +1,6 @@
 # ACM Sigspatial Cup 2016
 #### Distributed Computation of MapReduce on Geospatial Data.
 ------
-
 This work implements the solution for the [ACM SIGSPATIAL Cup 2016](http://sigspatial2016.sigspatial.org/giscup2016/problem) to justify the top fifty hotspots for the cabs in NY City under the following constraints.
 - Time step size is 1 day.
 - Input data is 2015 January Yellow Taxi and its size should be around 2GB.
@@ -17,8 +16,8 @@ Enviroment
 - The core metric of calculation is Getis-Ord statistic.
 - JAVA, Apache Spark, and Hadoop.
 
-Result
-- Earnee all points through completely matched profiled result for hotspots.
+Honor
+- Earnee all points through completely matched profiled hotspots.
 - Analyzed 12 million records in only 1 minute.
 
 The following figure demonstrates resource usages for MapReduce computation between each server.
