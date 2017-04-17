@@ -1,5 +1,5 @@
 # ACM Sigspatial Cup 2016
-#### Distributed Computation of MapReduce on geospatial data.
+#### Distributed Computation of MapReduce on Geospatial Data.
 ------
 
 This work implements the solution for the [ACM SIGSPATIAL Cup 2016](http://sigspatial2016.sigspatial.org/giscup2016/problem) to justify the top fifty hotspots for the cabs in NY City under the following constraints.
