@@ -8,4 +8,4 @@ MapReduce, , Spark, Hadoop, PostgreSQL, Cluster Management
   - PostgreSQL
   - MapReduce
 
-- Soon, it will contain virtualization, container techniques and clouding OS implementation.
+- Soon, this repository will contain virtualization, container techniques and clouding OS implementation.
