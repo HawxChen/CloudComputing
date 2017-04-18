@@ -17,7 +17,7 @@ Enviroment
 - JAVA, Apache Spark, and Hadoop.
 
 Honor
-- Earnee all points through completely matched profiled hotspots.
+- Earned all points through completely matched profiled hotspots.
 - Analyzed 12 million records in only 1 minute.
 
 The following figure demonstrates resource usages for MapReduce computation between each server.
