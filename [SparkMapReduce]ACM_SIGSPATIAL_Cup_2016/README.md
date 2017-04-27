@@ -10,7 +10,7 @@ This work implements the solution for the [ACM SIGSPATIAL Cup 2016](http://sigsp
 
 Enviroment
 - 16 inexpensive commodity servers on AWS
-  - 1 server in t2.medium level is reponbisble for the role: master.
+  - 1 server in t2.medium level is responsible for the role: master.
   - 15 servers in t2.micro level are slaves.
 - The tools I devloped for cluster management are placed in [Cluster Management](https://github.com/HawxChen/CloudComputing/tree/master/%5BSysAdmin%5DClusters).
 - The core metric of calculation is Getis-Ord statistic.
