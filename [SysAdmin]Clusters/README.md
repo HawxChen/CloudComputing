@@ -1,7 +1,7 @@
 # Cluster Administration
 
 Script Path: https://github.com/HawxChen/EnvirSetting/tree/master/aws/ubuntu1604/cluster
-* Built every cloud computing services and Databases from scratch, independently.
+* **Built every cloud computing services and Databases from scratch, independently**.
 * Related **PostgreSQL, NoSQL (MongoDB)** operations are in the folder: ./RelationalSQL_NoSQL_ops.
 * Using these scripts can controll **Spark, Hadoop, Ganglia**, and deliver any command to each machines effeciently and effectively.
 * These scripts can be used to control thousands of manchines as one cluster based on /etc/hosts.
