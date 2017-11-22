@@ -1,7 +1,7 @@
 # Cluster Administration
 
 Script Path: https://github.com/HawxChen/EnvirSetting/tree/master/aws/ubuntu1604/cluster
-* Related PostgreSQL, NoSQL (MongoDB) operations are in the folder ./RelationalSQL_NoSQL_ops
+* Related PostgreSQL, NoSQL (MongoDB) operations are in the folder: ./RelationalSQL_NoSQL_ops.
 * These scripts can be used to control thousands of manchines as one cluster based on /etc/hosts.
 * Using these scripts can controll Spark, Hadoop, Ganglia, and deliver any command to each machines effeciently and effectively.
 * I use these scripts to control and delpoy sixteen machines as one master and fifteen slaves on AWS EC2.
